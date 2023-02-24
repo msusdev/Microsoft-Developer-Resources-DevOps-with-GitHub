@@ -5,8 +5,8 @@ A deep dive into DevOps concepts and areas to consider when approaching a comple
 Learn with Microsoft through these programs to take your technical skills to the next level!
 | Resource | Description |
 | --- | --- | 
-| [Lab content](https://partner.microsoft.com/en-us/asset/collection/aiw-devops-with-github#/) | Lab detailed documentation. |
-| [x] | x |
+| [Embracing Innovation with DevOps Presentation](https://partner.microsoft.com/en-us/asset/collection/aiw-devops-with-github#/) | An overview of DevOps including how Microsoft is using DevOps today |
+| [Lab guide](https://experience.cloudlabs.ai/#/labguidepreview/97d458aa-aff8-4a36-b548-0470e615f2a4) | Hands on lab with learner excercises |
 | [y] | y |
 | [z] | z |
 ---
