@@ -7,8 +7,8 @@ Learn with Microsoft through these programs to take your technical skills to the
 | --- | --- | 
 | [Embracing Innovation with DevOps Presentation](https://partner.microsoft.com/en-us/asset/collection/aiw-devops-with-github#/) | An overview of DevOps including how Microsoft is using DevOps today |
 | [Lab guide](https://experience.cloudlabs.ai/#/labguidepreview/97d458aa-aff8-4a36-b548-0470e615f2a4) | Hands on lab with learner excercises |
-| [y] | y |
-| [z] | z |
+| [Azure and GitHub integration](https://learn.microsoft.com/en-us/azure/developer/github/?ocid=AID3045641) | Microsoft Learn resources on how GitHub and Azure work together to let you build and deploy apps.|
+| [Introduction to Codespaces playlist](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-) | A full tutorial introductoin to GitHub Codespaces|
 ---
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
